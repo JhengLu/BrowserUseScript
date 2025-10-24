@@ -1,4 +1,5 @@
 from browser_use import Agent, ChatOpenAI, BrowserProfile
+from browser_use.dom.serializer.html_serializer import HTMLSerializer
 from dotenv import load_dotenv
 import asyncio
 import json
@@ -91,13 +92,55 @@ async def step_callback(browser_state, agent_output, step_number):
         except Exception as e:
             log_to_file(f"Error saving screenshot: {e}")
 
-    # ===== LOG DOM TEXT =====
-    if hasattr(browser_state.dom_state, 'dom_text') and browser_state.dom_state.dom_text:
-        dom_text_path = SESSION_DIR / f"step_{step_number:03d}_dom_text.txt"
-        with open(dom_text_path, "w", encoding="utf-8") as f:
-            f.write(browser_state.dom_state.dom_text)
-        log_to_file(f"DOM text saved: {dom_text_path}")
-        log_to_file(f"DOM text preview (first 500 chars):\n{browser_state.dom_state.dom_text[:500]}")
+    # ===== LOG FULL HTML CONTENT =====
+    try:
+        # Extract HTML from the DOM state using HTMLSerializer
+        html_content = None
+
+        # Get the root node from selector_map if available
+        if hasattr(browser_state.dom_state, 'selector_map') and browser_state.dom_state.selector_map:
+            # Find the root document node
+            for index, node in browser_state.dom_state.selector_map.items():
+                if hasattr(node, 'node_type') and node.node_type == 9:  # DOCUMENT_NODE
+                    serializer = HTMLSerializer(extract_links=True)
+                    html_content = serializer.serialize(node)
+                    break
+
+            # If no document node found, try to serialize the first node with children
+            if not html_content:
+                for index, node in browser_state.dom_state.selector_map.items():
+                    if hasattr(node, 'children_nodes') and node.children_nodes:
+                        serializer = HTMLSerializer(extract_links=True)
+                        html_content = serializer.serialize(node)
+                        break
+
+        # Save the HTML content
+        if html_content:
+            html_path = SESSION_DIR / f"step_{step_number:03d}_full_page.html"
+            with open(html_path, "w", encoding="utf-8") as f:
+                f.write(html_content)
+            log_to_file(f"Full HTML saved: {html_path} ({len(html_content)} chars)")
+            log_to_file(f"HTML preview (first 500 chars):\n{html_content[:500]}")
+        else:
+            log_to_file("Warning: Could not extract HTML content from DOM state")
+
+    except Exception as e:
+        log_to_file(f"Error extracting HTML content: {e}")
+        import traceback
+        log_to_file(traceback.format_exc())
+
+    # ===== LOG LLM REPRESENTATION (DOM TEXT) =====
+    try:
+        # Also save the LLM representation (simplified DOM text)
+        llm_dom_text = browser_state.dom_state.llm_representation()
+        if llm_dom_text:
+            dom_text_path = SESSION_DIR / f"step_{step_number:03d}_llm_dom.txt"
+            with open(dom_text_path, "w", encoding="utf-8") as f:
+                f.write(llm_dom_text)
+            log_to_file(f"LLM DOM representation saved: {dom_text_path} ({len(llm_dom_text)} chars)")
+            log_to_file(f"LLM DOM preview (first 500 chars):\n{llm_dom_text[:500]}")
+    except Exception as e:
+        log_to_file(f"Error extracting LLM DOM representation: {e}")
 
     # ===== LOG LLM OUTPUT =====
     llm_data = {
