@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(conda activate:*)",
+      "Bash(~/anaconda3/envs/env312/bin/python --version)",
+      "Read(//Users/veritas/anaconda3/envs/env312/lib/python3.12/site-packages/browser_use/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
