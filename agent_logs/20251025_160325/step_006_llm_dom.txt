@@ -1,0 +1,150 @@
+*[1]<a />
+*[2]<a />
+	All Themes
+*[3]<a />
+	Sign in
+*[4]<a />
+	Sign up
+ShadCN Themes
+Discover and create beautiful themes for shadcn/ui
+*[5]<button data-state=closed expanded=false />
+	Import
+*[6]<button />
+	New Theme
+Filter by color:
+*[7]<button title=Red />
+	Red
+*[8]<button title=Orange />
+	Orange
+*[9]<button title=Yellow />
+	Yellow
+*[10]<button title=Green />
+	Green
+*[11]<button title=Teal />
+	Teal
+*[12]<button title=Blue />
+	Blue
+*[13]<button title=Purple />
+	Purple
+*[14]<button title=Pink />
+	Pink
+*[15]<button title=Gray />
+	Gray
+*[16]<button title=Black />
+	Black
+*[17]<button title=White />
+	White
+*[18]<div role=group />
+	*[19]<button data-state=off role=radio aria-checked=false aria-label=Light mode preview checked=false />
+	*[20]<button data-state=on role=radio aria-checked=true aria-label=Dark mode preview checked=true />
+[21]<div role=button aria-label=Open Velvet (Dark) />
+	Velvet (Dark)
+	by
+	*[22]<a />
+		mike
+	*[23]<button aria-label=Star title=Star this theme />
+*[24]<div role=button aria-label=Open Violet Bloom (tweakcn) />
+	Violet Bloom (tweakcn)
+	by
+	*[25]<a />
+		mike
+	*[26]<button aria-label=Star title=Star this theme />
+[27]<div role=button aria-label=Open Vintage Paper (tweakcn) />
+	Vintage Paper (tweakcn)
+	by
+	*[28]<a />
+		mike
+	*[29]<button aria-label=Star title=Star this theme />
+*[30]<div role=button aria-label=Open Vercel />
+	Vercel
+	by
+	*[31]<a />
+		mike
+	*[32]<button aria-label=Star title=Star this theme />
+*[33]<div role=button aria-label=Open Twitter />
+	Twitter
+	by
+	*[34]<a />
+		mike
+	*[35]<button aria-label=Star title=Star this theme />
+*[36]<div role=button aria-label=Open Tangerine (tweakcn) />
+	Tangerine (tweakcn)
+	by
+	[37]<a />
+		mike
+	*[38]<button aria-label=Star title=Star this theme />
+*[39]<div role=button aria-label=Open T3 Chat />
+	T3 Chat
+	by
+	*[40]<a />
+		mike
+	[41]<button aria-label=Star title=Star this theme />
+*[42]<div role=button aria-label=Open Supabase />
+	Supabase
+	by
+	*[43]<a />
+		mike
+	*[44]<button aria-label=Star title=Star this theme />
+[45]<div role=button aria-label=Open Sunset Horizon (tweakcn) />
+	Sunset Horizon (tweakcn)
+	by
+	[46]<a />
+		mike
+	*[47]<button aria-label=Star title=Star this theme />
+[48]<div role=button aria-label=Open Starry Night (tweakcn) />
+	Starry Night (tweakcn)
+	by
+	*[49]<a />
+		mike
+	[50]<button aria-label=Star title=Star this theme />
+[51]<div role=button aria-label=Open Solar Dusk (tweakcn) />
+	Solar Dusk (tweakcn)
+	by
+	*[52]<a />
+		mike
+	*[53]<button aria-label=Star title=Star this theme />
+[54]<div role=button aria-label=Open Soft Pop (tweakcn) />
+	Soft Pop (tweakcn)
+	by
+	[55]<a />
+		mike
+	*[56]<button aria-label=Star title=Star this theme />
+*[57]<div role=button aria-label=Open Retro Arcade (tweakcn) />
+	Retro Arcade (tweakcn)
+	by
+	*[58]<a />
+		mike
+	[59]<button aria-label=Star title=Star this theme />
+[60]<div role=button aria-label=Open Quantum Rose (tweakcn) />
+	Quantum Rose (tweakcn)
+	by
+	*[61]<a />
+		mike
+	*[62]<button aria-label=Star title=Star this theme />
+*[63]<div role=button aria-label=Open Perpetuity (tweakcn) />
+	Perpetuity (tweakcn)
+	by
+	[64]<a />
+		mike
+	*[65]<button aria-label=Star title=Star this theme />
+*[66]<div role=button aria-label=Open Pastel Dreams (tweakcn) />
+	Pastel Dreams (tweakcn)
+	by
+	*[67]<a />
+		mike
+	[68]<button aria-label=Star title=Star this theme />
+[69]<button />
+	See more
+*[70]<a />
+Create, customize, and share beautiful themes for shadcn/ui. Build your perfect color palette with our intuitive theme editor.
+*[71]<button />
+	New Theme
+*[72]<a />
+	Terms of Service
+*[73]<a />
+	Privacy Policy
+*[74]<a />
+	Contact Us
+2025
+ShadcnThemer.com. All rights reserved.
+*[75]<section aria-label=Notifications alt+T live=polite />
