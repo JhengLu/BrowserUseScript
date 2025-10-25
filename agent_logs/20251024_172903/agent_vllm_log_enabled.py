@@ -202,8 +202,7 @@ async def main():
         # Optional: Add custom timeout for long-running inference
         timeout=120.0,
     )
-    # task = "Find the number 1 post on Show HN"
-    task = "create a google doc"
+    task = "Find the number 1 post on Show HN"
 
     # Configure browser profile to keep browser alive after task completion
     browser_profile = BrowserProfile(keep_alive=True)

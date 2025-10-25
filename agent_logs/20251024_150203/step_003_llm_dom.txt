@@ -1,0 +1,633 @@
+[1]<a />
+[2]<a />
+	Hacker News
+[3]<a />
+	new
+[4]<a />
+	past
+[5]<a />
+	comments
+[6]<a />
+	ask
+[7]<a />
+	show
+[8]<a />
+	jobs
+[9]<a />
+	submit
+[10]<span />
+	[11]<a />
+		login
+[12]<td />
+	[13]<span />
+		1.
+[14]<td />
+	[15]<a id=up_45692984 />
+[16]<a />
+	Twake Drive – An open-source alternative to Google Drive
+[17]<a />
+	github.com/linagora
+[18]<span id=score_45692984 />
+	210 points
+by
+[19]<a />
+	javatuts
+[20]<a />
+	8 hours ago
+[21]<a />
+	hide
+[22]<a />
+	130 comments
+[23]<td />
+	[24]<span />
+		2.
+[25]<td />
+	[26]<a id=up_45661399 />
+[27]<a />
+	Mosquitoes discovered in Iceland for the first time
+[28]<a />
+	cnn.com
+[29]<span id=score_45661399 />
+	106 points
+by
+[30]<a />
+	breve
+[31]<a />
+	6 hours ago
+[32]<a />
+	hide
+[33]<a />
+	45 comments
+[34]<td />
+	[35]<span />
+		3.
+[36]<td />
+	[37]<a id=up_45632894 />
+[38]<a />
+	Why formalize mathematics – more than catching errors
+[39]<a />
+	rkirov.github.io
+[40]<span id=score_45632894 />
+	97 points
+by
+[41]<a />
+	birdculture
+[42]<a />
+	6 hours ago
+[43]<a />
+	hide
+[44]<a />
+	32 comments
+[45]<td />
+	[46]<span />
+		4.
+[47]<td />
+	[48]<a id=up_45693978 />
+[49]<a />
+	Typst 0.14
+[50]<a />
+	typst.app
+[51]<span id=score_45693978 />
+	409 points
+by
+[52]<a />
+	optionalsquid
+[53]<a />
+	6 hours ago
+[54]<a />
+	hide
+[55]<a />
+	110 comments
+[56]<td />
+	[57]<span />
+		5.
+[58]<td />
+	[59]<a id=up_45693325 />
+[60]<a />
+	Mesh2Motion – Open-source web application to animate 3D models
+[61]<a />
+	mesh2motion.org
+[62]<span id=score_45693325 />
+	131 points
+by
+[63]<a />
+	Splizard
+[64]<a />
+	8 hours ago
+[65]<a />
+	hide
+[66]<a />
+	31 comments
+[67]<td />
+	[68]<span />
+		6.
+[69]<td />
+	[70]<a id=up_45690251 />
+[71]<a />
+	Roc Camera
+[72]<a />
+	roc.camera
+[73]<span id=score_45690251 />
+	475 points
+by
+[74]<a />
+	martialg
+[75]<a />
+	16 hours ago
+[76]<a />
+	hide
+[77]<a />
+	418 comments
+[78]<td />
+	[79]<span />
+		7.
+[80]<td />
+	[81]<a id=up_45694767 />
+[82]<a />
+	Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust
+[83]<a />
+	phoronix.com
+[84]<span id=score_45694767 />
+	195 points
+by
+[85]<a />
+	LorenDB
+[86]<a />
+	4 hours ago
+[87]<a />
+	hide
+[88]<a />
+	174 comments
+[89]<td />
+	[90]<span />
+		8.
+[91]<td />
+	[92]<a id=up_45676841 />
+[93]<a />
+	A “knot dominated era” may have existed in the early universe: study
+[94]<a />
+	phys.org
+[95]<span id=score_45676841 />
+	55 points
+by
+[96]<a />
+	wglb
+[97]<a />
+	5 hours ago
+[98]<a />
+	hide
+[99]<a />
+	11 comments
+[100]<td />
+	[101]<span />
+		9.
+[102]<td />
+	[103]<a id=up_45674002 />
+[104]<a />
+	Public Montessori programs strengthen learning outcomes at lower costs: study
+[105]<a />
+	phys.org
+[106]<span id=score_45674002 />
+	90 points
+by
+[107]<a />
+	strict9
+[108]<a />
+	9 hours ago
+[109]<a />
+	hide
+[110]<a />
+	32 comments
+[111]<td />
+	[112]<span />
+		10.
+[113]<td />
+	[114]<a id=up_45690840 />
+[115]<a />
+	'Attention is all you need' coauthor says he's 'sick' of transformers
+[116]<a />
+	venturebeat.com
+[117]<span id=score_45690840 />
+	174 points
+by
+[118]<a />
+	achow
+[119]<a />
+	4 hours ago
+[120]<a />
+	hide
+[121]<a />
+	92 comments
+[122]<td />
+	[123]<span />
+		11.
+[124]<td />
+	[125]<a id=up_45597198 />
+[126]<a />
+	Cheap DIY solar fence design
+[127]<a />
+	joeyh.name
+[128]<span id=score_45597198 />
+	183 points
+by
+[129]<a />
+	kamaraju
+[130]<a />
+	18 hours ago
+[131]<a />
+	hide
+[132]<a />
+	131 comments
+[133]<td />
+	[134]<span />
+		12.
+[135]<td />
+	[136]<a id=up_45692915 />
+[137]<a />
+	Debian Technical Committee overrides systemd change
+[138]<a />
+	lwn.net
+[139]<span id=score_45692915 />
+	103 points
+by
+[140]<a />
+	birdculture
+[141]<a />
+	8 hours ago
+[142]<a />
+	hide
+[143]<a />
+	86 comments
+[144]<td />
+	[145]<span />
+		13.
+[146]<td />
+	[147]<a id=up_45694122 />
+[148]<a />
+	A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec
+[149]<a />
+	gizmodata.com
+[150]<span id=score_45694122 />
+	178 points
+by
+[151]<a />
+	tanelpoder
+[152]<a />
+	6 hours ago
+[153]<a />
+	hide
+[154]<a />
+	100 comments
+[155]<td />
+	[156]<span />
+		14.
+[157]<td />
+	[158]<a id=up_45689241 />
+[159]<a />
+	Counter-Strike's player economy is in a multi-billion dollar freefall
+[160]<a />
+	polygon.com
+[161]<span id=score_45689241 />
+	402 points
+by
+[162]<a />
+	perihelions
+[163]<a />
+	18 hours ago
+[164]<a />
+	hide
+[165]<a />
+	489 comments
+[166]<td />
+	[167]<span />
+		15.
+[168]<td />
+	[169]<a id=up_45692585 />
+[170]<a />
+	Interstellar Mission to a Black Hole
+[171]<a />
+	centauri-dreams.org
+[172]<span id=score_45692585 />
+	94 points
+by
+[173]<a />
+	JPLeRouzic
+[174]<a />
+	9 hours ago
+[175]<a />
+	hide
+[176]<a />
+	60 comments
+[177]<td />
+	[178]<span />
+		16.
+[179]<td />
+	[180]<a id=up_45627048 />
+[181]<a />
+	Using CUE to unify IoT sensor data
+[182]<a />
+	aran.dev
+[183]<span id=score_45627048 />
+	49 points
+by
+[184]<a />
+	mvdan
+[185]<a />
+	6 hours ago
+[186]<a />
+	hide
+[187]<a />
+	2 comments
+[188]<td />
+	[189]<span />
+		17.
+[190]<td />
+	[191]<a id=up_45660753 />
+[192]<a />
+	Why can't transformers learn multiplication?
+[193]<a />
+	arxiv.org
+[194]<span id=score_45660753 />
+	64 points
+by
+[195]<a />
+	PaulHoule
+[196]<a />
+	6 hours ago
+[197]<a />
+	hide
+[198]<a />
+	19 comments
+[199]<td />
+	[200]<span />
+		18.
+[201]<td />
+	[202]<a id=up_45693591 />
+[203]<a />
+	ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference
+[204]<a />
+	arxiv.org
+[205]<span id=score_45693591 />
+	62 points
+by
+[206]<a />
+	PaulHoule
+[207]<a />
+	7 hours ago
+[208]<a />
+	hide
+[209]<a />
+	5 comments
+[210]<td />
+	[211]<span />
+		19.
+[212]<td />
+	[213]<a id=up_45632557 />
+[214]<a />
+	VisiCalc on the Apple II
+[215]<a />
+	stonetools.ghost.io
+[216]<span id=score_45632557 />
+	70 points
+by
+[217]<a />
+	hggh
+[218]<a />
+	8 hours ago
+[219]<a />
+	hide
+[220]<a />
+	24 comments
+[221]<td />
+	[222]<span />
+		20.
+[223]<a />
+	Padlet (YC W13) Is Hiring in San Francisco and Singapore
+[224]<a />
+	padlet.jobs
+[225]<a />
+	7 hours ago
+[226]<a />
+	hide
+[227]<td />
+	[228]<span />
+		21.
+[229]<td />
+	[230]<a id=up_45678001 />
+[231]<a />
+	Clojure Zippers (2021)
+[232]<a />
+	grishaev.me
+[233]<span id=score_45678001 />
+	71 points
+by
+[234]<a />
+	prydt
+[235]<a />
+	5 hours ago
+[236]<a />
+	hide
+[237]<a />
+	2 comments
+[238]<td />
+	[239]<span />
+		22.
+[240]<td />
+	[241]<a id=up_45687441 />
+[242]<a />
+	When is it better to think without words?
+[243]<a />
+	henrikkarlsson.xyz
+[244]<span id=score_45687441 />
+	227 points
+by
+[245]<a />
+	Curiositry
+[246]<a />
+	20 hours ago
+[247]<a />
+	hide
+[248]<a />
+	116 comments
+[249]<td />
+	[250]<span />
+		23.
+[251]<td />
+	[252]<a id=up_45549099 />
+[253]<a />
+	Random Numbers from Hard Problems: LWE Toy RNG
+[254]<a />
+	s20n.dev
+[255]<span id=score_45549099 />
+	7 points
+by
+[256]<a />
+	s20n
+[257]<a />
+	2 hours ago
+[258]<a />
+	hide
+[259]<a />
+	discuss
+[260]<td />
+	[261]<span />
+		24.
+[262]<td />
+	[263]<a id=up_45652968 />
+[264]<a />
+	Linux disk I/O diagram (2024)
+[265]<a />
+	zenodo.org
+[266]<span id=score_45652968 />
+	60 points
+by
+[267]<a />
+	vismit2000
+[268]<a />
+	4 hours ago
+[269]<a />
+	hide
+[270]<a />
+	2 comments
+[271]<td />
+	[272]<span />
+		25.
+[273]<td />
+	[274]<a id=up_45566817 />
+[275]<a />
+	Wasp Blower
+[276]<a />
+	softsolder.com
+[277]<span id=score_45566817 />
+	62 points
+by
+[278]<a />
+	bookofjoe
+[279]<a />
+	10 hours ago
+[280]<a />
+	hide
+[281]<a />
+	75 comments
+[282]<td />
+	[283]<span />
+		26.
+[284]<td />
+	[285]<a id=up_45691127 />
+[286]<a />
+	Alaska Airlines' statement on IT outage
+[287]<a />
+	alaskaair.com
+[288]<span id=score_45691127 />
+	100 points
+by
+[289]<a />
+	fujigawa
+[290]<a />
+	12 hours ago
+[291]<a />
+	hide
+[292]<a />
+	94 comments
+[293]<td />
+	[294]<span />
+		27.
+[295]<td />
+	[296]<a id=up_45695956 />
+[297]<a />
+	The Mainframe Six (2022)
+[298]<a />
+	arcanesciences.com
+[299]<span id=score_45695956 />
+	37 points
+by
+[300]<a />
+	rbanffy
+[301]<a />
+	3 hours ago
+[302]<a />
+	hide
+[303]<a />
+	6 comments
+[304]<td />
+	[305]<span />
+		28.
+[306]<td />
+	[307]<a id=up_45687458 />
+[308]<a />
+	/dev/null is an ACID compliant database
+[309]<a />
+	jyu.dev
+[310]<span id=score_45687458 />
+	545 points
+by
+[311]<a />
+	swills
+[312]<a />
+	21 hours ago
+[313]<a />
+	hide
+[314]<a />
+	168 comments
+[315]<td />
+	[316]<span />
+		29.
+[317]<td />
+	[318]<a id=up_45657531 />
+[319]<a />
+	LightlyStudio – an open-source multimodal data curation and labeling tool
+[320]<a />
+	github.com/lightly-ai
+[321]<span id=score_45657531 />
+	36 points
+by
+[322]<a />
+	masakljun
+[323]<a />
+	7 hours ago
+[324]<a />
+	hide
+[325]<a />
+	1 comment
+[326]<td />
+	[327]<span />
+		30.
+[328]<td />
+	[329]<a id=up_45655393 />
+[330]<a />
+	SierraDB: A distributed event store built in Rust
+[331]<a />
+	tqwewe.com
+[332]<span id=score_45655393 />
+	49 points
+by
+[333]<a />
+	tqwewe
+[334]<a />
+	7 hours ago
+[335]<a />
+	hide
+[336]<a />
+	6 comments
+[337]<a />
+	More
+[338]<a />
+	Consider applying for YC's Winter 2026 batch! Applications are open till Nov 10
+[339]<a />
+	Guidelines
+[340]<a />
+	FAQ
+[341]<a />
+	Lists
+[342]<a />
+	API
+[343]<a />
+	Security
+[344]<a />
+	Legal
+[345]<a />
+	Apply to YC
+[346]<a />
+	Contact
+Search:
+|SHADOW(open)|[347]<input type=text name=q required=false />

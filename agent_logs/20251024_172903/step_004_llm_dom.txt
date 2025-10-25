@@ -1,0 +1,238 @@
+Skip to content
+Navigation Menu
+*[1]<div />
+	*[2]<a aria-label=Homepage />
+*[3]<button expanded=false />
+	Platform
+*[4]<button expanded=false />
+	Solutions
+*[5]<button expanded=false />
+	Resources
+*[6]<button expanded=false />
+	Open Source
+*[7]<button expanded=false />
+	Enterprise
+*[8]<a />
+	Pricing
+*[9]<qbsearch-input />
+	*[10]<div />
+		*[11]<button aria-label=Search or jump to… placeholder=Search or jump to... />
+			Search or jump to...
+	*[12]<custom-scopes />
+*[13]<a />
+	Sign in
+*[14]<a />
+	Sign up
+*[15]<div />
+	*[16]<button id=icon-button-5987784b-4c8e-40ea-865a-66088279c989 expanded=false />
+*[17]<svg />
+*[18]<a keyshortcuts=Alt+ArrowUp />
+	hauxir
+*[19]<a />
+	macos-live-screensaver
+[20]<span />
+	Public
+*[21]<a id=repository-details-watch-button aria-label=You must be signed in to change notification settings />
+	Notifications
+*[22]<a id=fork-button />
+	Fork
+[23]<a aria-label=You must be signed in to star a repository />
+	Star
+	[24]<span id=repo-stars-counter-star aria-label=69 users starred this repository title=69 />
+		69
+*[25]<a id=code-tab />
+	Code
+*[26]<a id=issues-tab />
+	Issues
+*[27]<a id=pull-requests-tab />
+	Pull requests
+*[28]<a id=actions-tab />
+	Actions
+[29]<a id=projects-tab />
+	Projects
+*[30]<a id=security-tab />
+	Security
+[31]<a id=insights-tab />
+	Insights
+hauxir/macos-live-screensaver
+*[32]<button aria-label=main branch id=ref-picker-repos-header-ref-selector expanded=false />
+	main
+*[33]<a type=button />
+	Branch
+*[34]<a type=button />
+	Tag
+[35]<span />
+	[36]<span id=:r2: />
+		*[37]<svg />
+	|SHADOW(open)|*[38]<input type=text role=combobox placeholder=Go to file required=false expanded=false />
+*[39]<button id=:R75ab: expanded=false />
+	Code
+Folders and files
+Name
+Last commit message
+Last commit date
+Latest commit
+[40]<a keyshortcuts=Alt+ArrowUp />
+	*[41]<img alt=hauxir />
+*[42]<a aria-label=commits by hauxir keyshortcuts=Alt+ArrowUp />
+	hauxir
+*[43]<a keyshortcuts=Alt+ArrowUp />
+	add link to android tv
+*[44]<button />
+*[45]<a aria-label=Commit db05315 keyshortcuts=Alt+ArrowUp />
+	db05315
+Open Shadow
+	yesterday
+Shadow End
+History
+*[46]<a />
+	16 Commits
+*[47]<svg />
+*[48]<a title=This path skips through empty directories aria-label=.github/workflows, (Directory) />
+	.github/
+	workflows
+[49]<a title=Update GitHub Actions to use Makefile
+
+Replaced build.sh with make build command.
+
+🤖 Generated with ... />
+	Update GitHub Actions to use Makefile
+Open Shadow
+	3 days ago
+Shadow End
+*[50]<svg />
+*[51]<a title=.gitignore aria-label=.gitignore, (File) />
+	.gitignore
+*[52]<a title=initial commit />
+	initial commit
+Open Shadow
+	3 days ago
+Shadow End
+*[53]<svg />
+*[54]<a title=Info.plist aria-label=Info.plist, (File) />
+	Info.plist
+*[55]<a title=initial commit />
+	initial commit
+Open Shadow
+	3 days ago
+Shadow End
+*[56]<svg />
+*[57]<a title=LICENSE aria-label=LICENSE, (File) />
+	LICENSE
+*[58]<a title=initial commit />
+	initial commit
+Open Shadow
+	3 days ago
+Shadow End
+*[59]<svg />
+[60]<a title=Makefile aria-label=Makefile, (File) />
+	Makefile
+*[61]<a title=Replace build.sh with Makefile
+
+Inlined build.sh into Makefile and added additional targets:
+- make ... />
+	Replace build.sh with Makefile
+Open Shadow
+	3 days ago
+Shadow End
+*[62]<svg />
+*[63]<a title=README.md aria-label=README.md, (File) />
+	README.md
+*[64]<a title=add link to android tv />
+	add link to android tv
+Open Shadow
+	yesterday
+Shadow End
+*[65]<svg />
+[66]<a title=screensaver.swift aria-label=screensaver.swift, (File) />
+	screensaver.swift
+*[67]<a title=Remove unused preview timeout code
+
+The isPreview flag is always false in practice, so the preview t... />
+	Remove unused preview timeout code
+Open Shadow
+	3 days ago
+Shadow End
+Repository files navigation
+[68]<a />
+	README
+[69]<a />
+	MIT license
+*[70]<button aria-label=Outline id=:Rr9ab: expanded=false />
+*[71]<h1 level=1 />
+	MacOS Live Screensaver
+A macOS screensaver that plays live video streams. Supports YouTube videos and direct HLS streams.
+Also available:
+*[72]<a />
+	Android TV Live Screensaver
+*[73]<h2 level=2 />
+	Why?
+Turn any live stream into your screensaver/lockscreen. Some examples:
+*[74]<h3 level=3 />
+	*[75]<a />
+		Namib Desert Wildlife
+*[76]<a />
+	*[77]<img alt=Image />
+*[78]<h3 level=3 />
+	*[79]<a />
+		Times Square
+*[80]<a />
+	*[81]<img alt=Image />
+*[82]<h3 level=3 />
+	*[83]<a />
+		The News
+*[84]<a />
+	*[85]<img alt=Image />
+*[86]<h2 level=2 />
+	Requirements
+About
+Use live streams as screensavers/lock screens on MacOS
+Resources
+*[87]<a />
+	Readme
+License
+*[88]<a />
+	MIT license
+*[89]<a />
+	Activity
+Stars
+*[90]<a />
+	69
+	stars
+Watchers
+*[91]<a />
+	watching
+Forks
+*[92]<a />
+	fork
+*[93]<a />
+	Report repository
+*[94]<a />
+	Releases
+	*[95]<span title=1 />
+*[96]<a />
+	Latest Build
+	Latest
+	Open Shadow
+		3 days ago
+	Shadow End
+*[97]<a />
+	Packages
+No packages published
+*[98]<a />
+	Contributors
+*[99]<a keyshortcuts=Alt+ArrowUp />
+*[100]<a />
+	hauxir
+	Haukur Rósinkranz
+*[101]<a keyshortcuts=Alt+ArrowUp />
+*[102]<a />
+	claude
+	Claude
+Languages
+*[103]<a />
+	Swift
+	95.5%
+*[104]<a />
+	Makefile
+	4.5%

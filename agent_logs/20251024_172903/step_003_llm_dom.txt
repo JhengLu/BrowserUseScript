@@ -1,0 +1,599 @@
+*[1]<a />
+*[2]<a />
+	Hacker News
+*[3]<a />
+	new
+*[4]<a />
+	past
+*[5]<a />
+	comments
+*[6]<a />
+	ask
+*[7]<span />
+	*[8]<a />
+		show
+*[9]<a />
+	jobs
+*[10]<a />
+	submit
+*[11]<span />
+	*[12]<a />
+		login
+Please read the Show HN
+*[13]<a />
+	rules
+and
+*[14]<a />
+	tips
+before posting. You can browse the newest Show HNs
+*[15]<a />
+	here
+*[16]<td />
+	*[17]<span />
+		1.
+*[18]<td />
+	*[19]<a id=up_45654708 />
+*[20]<a />
+	Show HN: MacOS Live Screensaver – A screensaver that plays live video streams
+*[21]<a />
+	github.com/hauxir
+*[22]<span id=score_45654708 />
+	47 points
+by
+*[23]<a />
+	hauxir
+*[24]<a />
+	6 hours ago
+*[25]<a />
+	38 comments
+*[26]<td />
+	*[27]<span />
+		2.
+*[28]<td />
+	*[29]<a id=up_45693904 />
+*[30]<a />
+	Show HN: A fast, privacy-first image converter that runs in browser
+*[31]<a />
+	imageconverter.dev
+*[32]<span id=score_45693904 />
+	30 points
+by
+*[33]<a />
+	wainguo
+*[34]<a />
+	9 hours ago
+*[35]<a />
+	22 comments
+*[36]<td />
+	*[37]<span />
+		3.
+*[38]<td />
+	*[39]<a id=up_45698363 />
+*[40]<a />
+	Show HN: Check what is hogging your disk zpace
+*[41]<a />
+	github.com/azisk
+*[42]<span id=score_45698363 />
+	2 points
+by
+*[43]<a />
+	azisk1
+*[44]<a />
+	1 hour ago
+*[45]<a />
+	2 comments
+*[46]<td />
+	*[47]<span />
+		4.
+*[48]<td />
+	*[49]<a id=up_45696980 />
+*[50]<a />
+	Show HN: Understanding LLM fundamentals without frameworks
+*[51]<a />
+	github.com/jmedia65
+*[52]<span id=score_45696980 />
+	2 points
+by
+*[53]<a />
+	maxtermed
+*[54]<a />
+	3 hours ago
+*[55]<a />
+	discuss
+*[56]<td />
+	*[57]<span />
+		5.
+*[58]<td />
+	*[59]<a id=up_45682776 />
+*[60]<a />
+	Show HN: Git for LLMs – A context management interface
+*[61]<a />
+	twigg.ai
+*[62]<span id=score_45682776 />
+	88 points
+by
+*[63]<a />
+	jborland
+*[64]<span title=2025-10-23T15:12:57 1761232377 />
+	*[65]<a />
+		1 day ago
+*[66]<a />
+	35 comments
+*[67]<td />
+	*[68]<span />
+		6.
+*[69]<td />
+	*[70]<a id=up_45693775 />
+*[71]<a />
+	Show HN: Sqlite3-dump - a fast SQLite to CSV and parquet
+*[72]<a />
+	github.com/i64
+*[73]<span id=score_45693775 />
+	9 points
+by
+*[74]<a />
+	Gave4655
+*[75]<a />
+	9 hours ago
+*[76]<a />
+	1 comment
+*[77]<td />
+	*[78]<span />
+		7.
+*[79]<td />
+	*[80]<a id=up_45698543 />
+*[81]<a />
+	Show HN: The Σ-Manifold Manifesto
+*[82]<span id=score_45698543 />
+	2 points
+by
+*[83]<a />
+	mihend
+*[84]<a />
+	1 hour ago
+*[85]<a />
+	discuss
+*[86]<td />
+	*[87]<span />
+		8.
+*[88]<td />
+	*[89]<a id=up_45684230 />
+*[90]<a />
+	Show HN: Tommy – Turn ESP32 devices into through-wall motion sensors
+*[91]<a />
+	tommysense.com
+*[92]<span id=score_45684230 />
+	91 points
+by
+*[93]<a />
+	mike2872
+*[94]<span title=2025-10-23T17:04:07 1761239047 />
+	*[95]<a />
+		1 day ago
+*[96]<a />
+	72 comments
+*[97]<td />
+	*[98]<span />
+		9.
+*[99]<td />
+	*[100]<a id=up_45685793 />
+*[101]<a />
+	Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive
+*[102]<a />
+	opensnowcat.io
+*[103]<span id=score_45685793 />
+	70 points
+by
+*[104]<a />
+	joaocorreia
+*[105]<span title=2025-10-23T19:24:04 1761247444 />
+	*[106]<a />
+		1 day ago
+*[107]<a />
+	16 comments
+*[108]<td />
+	*[109]<span />
+		10.
+*[110]<td />
+	*[111]<a id=up_45680937 />
+*[112]<a />
+	Show HN: Deta Surf – An open source and local-first AI notebook
+*[113]<a />
+	github.com/deta
+*[114]<span id=score_45680937 />
+	126 points
+by
+*[115]<a />
+	mxek
+*[116]<span title=2025-10-23T12:11:27 1761221487 />
+	*[117]<a />
+		1 day ago
+*[118]<a />
+	39 comments
+*[119]<td />
+	*[120]<span />
+		11.
+*[121]<td />
+	*[122]<a id=up_45695974 />
+*[123]<a />
+	Show HN: AgentML – Deterministic AI Agents (MIT, Alpha)
+*[124]<a />
+	agentml.dev
+*[125]<span id=score_45695974 />
+	15 points
+by
+*[126]<a />
+	gwillen85
+*[127]<a />
+	5 hours ago
+*[128]<a />
+	3 comments
+*[129]<td />
+	*[130]<span />
+		12.
+*[131]<td />
+	*[132]<a id=up_45695892 />
+*[133]<a />
+	Show HN: I might have invented a new style of puzzle
+*[134]<a />
+	boondoggle.studio
+*[135]<span id=score_45695892 />
+	2 points
+by
+*[136]<a />
+	DJSnackySnack
+*[137]<a />
+	5 hours ago
+*[138]<a />
+	discuss
+*[139]<td />
+	*[140]<span />
+		13.
+*[141]<td />
+	*[142]<a id=up_45695878 />
+*[143]<a />
+	Show HN: A high-performance Rust based MCP server
+*[144]<a />
+	github.com/psu3d0
+*[145]<span id=score_45695878 />
+	2 points
+by
+*[146]<a />
+	ManfredMacx
+*[147]<a />
+	5 hours ago
+*[148]<a />
+	discuss
+*[149]<td />
+	*[150]<span />
+		14.
+*[151]<td />
+	*[152]<a id=up_45682122 />
+*[153]<a />
+	Show HN: Nostr Web – decentralized website hosting on Nostr
+*[154]<a />
+	shugur.com
+*[155]<span id=score_45682122 />
+	99 points
+by
+*[156]<a />
+	karihass
+*[157]<span title=2025-10-23T14:20:40 1761229240 />
+	*[158]<a />
+		1 day ago
+*[159]<a />
+	26 comments
+*[160]<td />
+	*[161]<span />
+		15.
+*[162]<td />
+	*[163]<a id=up_45692353 />
+*[164]<a />
+	Show HN: Inspec – Specification scheduling software for interior designers
+*[165]<a />
+	inspec.design
+*[166]<span id=score_45692353 />
+	8 points
+by
+*[167]<a />
+	nick_cook
+*[168]<a />
+	12 hours ago
+*[169]<a />
+	discuss
+*[170]<td />
+	*[171]<span />
+		16.
+*[172]<td />
+	*[173]<a id=up_45695486 />
+*[174]<a />
+	Show HN: How to create a perfect white background image effortlessly?
+*[175]<a />
+	whitebg.org
+*[176]<span id=score_45695486 />
+	3 points
+by
+*[177]<a />
+	stjuan627
+*[178]<a />
+	6 hours ago
+*[179]<a />
+	1 comment
+*[180]<td />
+	*[181]<span />
+		17.
+*[182]<td />
+	*[183]<a id=up_45684689 />
+*[184]<a />
+	Show HN: I built a tech news aggregator that works the way my brain does
+*[185]<a />
+	deadstack.net
+*[186]<span id=score_45684689 />
+	175 points
+by
+*[187]<a />
+	dreadsword
+*[188]<span title=2025-10-23T17:48:13 1761241693 />
+	*[189]<a />
+		1 day ago
+*[190]<a />
+	97 comments
+*[191]<td />
+	*[192]<span />
+		18.
+*[193]<td />
+	*[194]<a id=up_45695080 />
+*[195]<a />
+	Show HN: Build unique websites with 200 modern components using Tailkits UI
+*[196]<a />
+	tailkits.com
+*[197]<span id=score_45695080 />
+	3 points
+by
+*[198]<a />
+	hey-fk
+*[199]<a />
+	6 hours ago
+*[200]<a />
+	1 comment
+*[201]<td />
+	*[202]<span />
+		19.
+*[203]<td />
+	*[204]<a id=up_45694922 />
+*[205]<a />
+	Show HN: Data engine scraping stats, killing Statista's $490/month model
+*[206]<a />
+	qoery.com
+*[207]<span id=score_45694922 />
+	4 points
+by
+*[208]<a />
+	SamTinnerholm
+*[209]<a />
+	7 hours ago
+*[210]<a />
+	1 comment
+*[211]<td />
+	*[212]<span />
+		20.
+*[213]<td />
+	*[214]<a id=up_45694566 />
+*[215]<a />
+	Show HN: The System Skill Pattern
+*[216]<a />
+	shruggingface.com
+*[217]<span id=score_45694566 />
+	8 points
+by
+*[218]<a />
+	jakedahn
+*[219]<a />
+	7 hours ago
+*[220]<a />
+	2 comments
+*[221]<td />
+	*[222]<span />
+		21.
+*[223]<td />
+	*[224]<a id=up_45694463 />
+*[225]<a />
+	Show HN: UN Volunteers Opportunities Dashboard
+*[226]<a />
+	volunteerwiththeun.com
+*[227]<span id=score_45694463 />
+	2 points
+by
+*[228]<a />
+	npetz
+*[229]<a />
+	7 hours ago
+*[230]<a />
+	discuss
+*[231]<td />
+	*[232]<span />
+		22.
+*[233]<td />
+	*[234]<a id=up_45694051 />
+*[235]<a />
+	Show HN: LLM Rescuer – Fixing the billion dollar mistake in Ruby
+*[236]<a />
+	github.com/barodeur
+*[237]<span id=score_45694051 />
+	9 points
+by
+*[238]<a />
+	barodeur
+*[239]<a />
+	8 hours ago
+*[240]<a />
+	discuss
+*[241]<td />
+	*[242]<span />
+		23.
+*[243]<td />
+	*[244]<a id=up_45694026 />
+*[245]<a />
+	Show HN: ResizeImage.dev – A fast image resizer runs in browser
+*[246]<a />
+	resizeimage.dev
+*[247]<span id=score_45694026 />
+	3 points
+by
+*[248]<a />
+	wainguo
+*[249]<a />
+	8 hours ago
+*[250]<a />
+	3 comments
+*[251]<td />
+	*[252]<span />
+		24.
+*[253]<td />
+	*[254]<a id=up_45674126 />
+*[255]<a />
+	Show HN: Cuq – Formal Verification of Rust GPU Kernels
+*[256]<a />
+	github.com/neelsomani
+*[257]<span id=score_45674126 />
+	92 points
+by
+*[258]<a />
+	nsomani
+*[259]<a />
+	2 days ago
+*[260]<a />
+	62 comments
+*[261]<td />
+	*[262]<span />
+		25.
+*[263]<td />
+	*[264]<a id=up_45566730 />
+*[265]<a />
+	Show HN: Cadence – A guitar theory app
+*[266]<a />
+	cadenceguitar.com
+*[267]<span id=score_45566730 />
+	193 points
+by
+*[268]<a />
+	apizon
+*[269]<a />
+	2 days ago
+*[270]<a />
+	89 comments
+*[271]<td />
+	*[272]<span />
+		26.
+*[273]<td />
+	*[274]<a id=up_45627586 />
+*[275]<a />
+	Show HN: Silly Morse code chat app using WebSockets
+*[276]<a />
+	noamtamir.github.io
+*[277]<span id=score_45627586 />
+	76 points
+by
+*[278]<a />
+	noamikotamir
+*[279]<span title=2025-10-18T14:18:03 1760797083 />
+	*[280]<a />
+		1 day ago
+*[281]<a />
+	31 comments
+*[282]<td />
+	*[283]<span />
+		27.
+*[284]<td />
+	*[285]<a id=up_45684178 />
+*[286]<a />
+	Show HN: ScreenAsk – Free Screen Recording Links for Customer Support
+*[287]<a />
+	screenask.com
+*[288]<span id=score_45684178 />
+	19 points
+by
+*[289]<a />
+	ladybro
+*[290]<span title=2025-10-23T16:59:55 1761238795 />
+	*[291]<a />
+		1 day ago
+*[292]<a />
+	1 comment
+*[293]<td />
+	*[294]<span />
+		28.
+*[295]<td />
+	*[296]<a id=up_45609478 />
+*[297]<a />
+	Show HN: Play abstract strategy board games online with friends or against bots
+*[298]<a />
+	abstractboardgames.com
+*[299]<span id=score_45609478 />
+	179 points
+by
+*[300]<a />
+	abstractbg
+*[301]<span title=2025-10-16T19:12:47 1760641967 />
+	*[302]<a />
+		1 day ago
+*[303]<a />
+	82 comments
+*[304]<td />
+	*[305]<span />
+		29.
+*[306]<td />
+	*[307]<a id=up_45604013 />
+*[308]<a />
+	Show HN: Modshim – A new alternative to monkey-patching in Python
+*[309]<a />
+	github.com/joouha
+*[310]<span id=score_45604013 />
+	108 points
+by
+*[311]<a />
+	joouha
+*[312]<a />
+	2 days ago
+*[313]<a />
+	30 comments
+*[314]<td />
+	*[315]<span />
+		30.
+*[316]<td />
+	*[317]<a id=up_45656952 />
+*[318]<a />
+	Show HN: Katakate – Dozens of VMs per node for safe code exec
+*[319]<a />
+	github.com/katakate
+*[320]<span id=score_45656952 />
+	120 points
+by
+*[321]<a />
+	gbxk
+*[322]<a />
+	3 days ago
+*[323]<a />
+	51 comments
+*[324]<a />
+	More
+*[325]<a />
+	Consider applying for YC's Winter 2026 batch! Applications are open till Nov 10
+*[326]<a />
+	Guidelines
+*[327]<a />
+	FAQ
+*[328]<a />
+	Lists
+*[329]<a />
+	API
+*[330]<a />
+	Security
+*[331]<a />
+	Legal
+*[332]<a />
+	Apply to YC
+*[333]<a />
+	Contact
+Search:
+|SHADOW(open)|*[334]<input type=text name=q required=false />
